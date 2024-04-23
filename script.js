@@ -14,3 +14,10 @@ for (let i = 0; i < btnsOpenModal.length; i++)
     modal.classList.remove('hidden');
     overlay.classList.remove('hidden');
   });
+
+//   Create eventListener for close-modal button
+
+btnCloseModal.addEventListener('click', function () {
+  modal.classList.add('hidden');
+  overlay.classList.add('hidden');
+});
