@@ -83,3 +83,13 @@ p {
   backdrop-filter: blur(3px);
   z-index: 5;
 }
+
+/* Mobile responsive */
+
+@media screen and (min-width: 120px) and (max-width: 790px) {
+  .main-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+}
