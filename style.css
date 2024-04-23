@@ -87,9 +87,18 @@ p {
 /* Mobile responsive */
 
 @media screen and (min-width: 120px) and (max-width: 790px) {
+  body {
+    background: #28b487;
+  }
   .main-section {
     display: flex;
     flex-direction: column;
     justify-content: center;
+    background-color: red;
+  }
+  .modal {
+    height: 100%;
+    overflow: auto;
+    margin-top: 50rem;
   }
 }
