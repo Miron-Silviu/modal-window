@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](<![screenshot](image.png)>)
+[image](image.png)
 
 ### Links
 
