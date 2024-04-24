@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Screenshot
 
-[image](image.png)
+[image.png]
 
 ### Links
 
