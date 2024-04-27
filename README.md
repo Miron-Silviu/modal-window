@@ -47,13 +47,7 @@ I started the project by creating new branch "Feature/mobile-responsive" and in 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
@@ -89,10 +83,6 @@ document.addEventListener('keydown', function (e) {
 });
 };
 ```
-
-### Continued development
-
-I want to continue to create new projects to improve my skills regarding the way on how to use classes in javaScript and how to manipulate DOM, using addEventListener.
 
 ### Useful resources
 
