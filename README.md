@@ -12,8 +12,6 @@ This is a solution to the [Modal window].
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 This is a project from my learning journey using "The complete JavaScript course: From zero to expert ", from udemy platform.
@@ -30,26 +28,26 @@ Users should be able to:
   -Hide the modal by pressing the "Escape kye from keyboard.
   -Hide the modal by pressing the outside the modal
 
-### Screenshot
+# LINK
+[CLICK ME FOR LIVE VIEW](https://miron-silviu.github.io/modal-window/)
+
+## Screenshot
 
 ![alt text](image-1.png)
 
-### Links
-
-- Solution URL: [https://miron-silviu.github.io/modal-window/]
 
 ## My process
 
 I started the project by creating new branch "Feature/mobile-responsive" and in that branch I developed mobile first, after that I created "Feature/select-html-class-selection-and-project" branch, and in this branch I created the entire javaScript code.
 
-### Built with
+## Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
 - Mobile-first workflow
 
-### What I learned
+## What I learned
 
 Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
 
