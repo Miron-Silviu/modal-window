@@ -33,7 +33,7 @@ Users should be able to:
 
 ## Screenshot
 
-![alt text](image-1.png)
+![VIEW DEMO](image-1.png)
 
 
 ## My process
