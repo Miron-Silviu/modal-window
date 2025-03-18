@@ -2,15 +2,18 @@ This is a solution to the [Modal window].
 
 ## Table of contents
 
-- [Overview](#overview)
+  - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
+  - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
+
+# Links
+[![DEPLOYMENT](https://github.com/Miron-Silviu/Guess-my-Number/blob/main/images/Frame%201.png)](https://miron-silviu.github.io/modal-window/)
 
 ## Overview
 
@@ -27,9 +30,6 @@ Users should be able to:
   -Hide the modal by pressing the close-modal button.
   -Hide the modal by pressing the "Escape kye from keyboard.
   -Hide the modal by pressing the outside the modal
-
-# LINK
-[CLICK ME FOR LIVE VIEW](https://miron-silviu.github.io/modal-window/)
 
 ## Screenshot
 
